@@ -168,4 +168,25 @@ python server.py
 
 ## 📄 발표 자료
 
-📄 [`스마트 차고 제어 시스템.pptx`](./스마트%20차고%20제어%20시스템.pptx)
+PPT 파일 용량이 커서 바로 미리보기가 되지 않아, 슬라이드를 이미지로 캡처해 아래에 첨부합니다.
+
+<p align="center">
+  <img width="800" src="./docs/slides/slide-01.png" alt="발표자료 표지">
+</p>
+<p align="center">
+  <img width="800" src="./docs/slides/slide-02.png" alt="01 작품 개요">
+</p>
+<p align="center">
+  <img width="800" src="./docs/slides/slide-03.png" alt="02 주요 기능">
+</p>
+<p align="center">
+  <img width="800" src="./docs/slides/slide-04.png" alt="03 회로 구성">
+</p>
+<p align="center">
+  <img width="800" src="./docs/slides/slide-05.png" alt="04 프로그램 구조">
+</p>
+<p align="center">
+  <img width="800" src="./docs/slides/slide-06.png" alt="05 마무리">
+</p>
+
+📄 전체 원본 파일: [`스마트 차고 제어 시스템.pptx`](./스마트%20차고%20제어%20시스템.pptx)
